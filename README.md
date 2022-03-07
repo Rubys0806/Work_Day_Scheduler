@@ -21,4 +21,4 @@
 * It is done when the event persists even if the page is refreshed.
 
 ## Screenshot 
-![GIF of the final apperence of the website.] (./Develop/images/demo.gif)
+![Screenshot of final web application](./Develop/images/demo.gif)
